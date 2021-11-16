@@ -7,5 +7,5 @@ Alerts when run out of ingredients.
 
 Keeps a record of resources.
 
-Calculates and return change.
+Calculates and return change $.
 
